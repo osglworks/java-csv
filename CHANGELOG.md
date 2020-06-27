@@ -1,5 +1,8 @@
 # osgl-csv CHANGE LOG
 
+1.2.1 - 27/Jun/2020
+* update to osgl-tool-1.25.0
+
 1.2.0 - 03/Nov/2019
 * update to osgl-tool-1.21.0
 

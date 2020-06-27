@@ -41,8 +41,8 @@
   <properties>
     <scm.url>git@github.com:osglworks/java-csv.git</scm.url>
 
-    <osgl-tool.version>1.21.0</osgl-tool.version>
-    <osgl-logging.version>1.5.0</osgl-logging.version>
+    <osgl-tool.version>1.25.0</osgl-tool.version>
+    <osgl-logging.version>1.5.1</osgl-logging.version>
 
   </properties>
 
